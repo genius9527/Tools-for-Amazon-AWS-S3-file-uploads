@@ -16,7 +16,8 @@ A tool for implementing S3 file uploads using aws sdk for Javascript
 
 
 **效果演示**：
-初试状态：
+
+初始状态：
 ![初始状态](https://github.com/genius9527/Tools-for-Amazon-AWS-S3-file-uploads/blob/master/%E5%88%9D%E5%A7%8B%E7%8A%B6%E6%80%81.png)
 
 中间状态：
