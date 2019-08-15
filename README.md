@@ -9,7 +9,8 @@ A tool for implementing S3 file uploads using aws sdk for Javascript
 **使用方法**：
 1.获取你的accessKeyId与secretAccessKey，填进代码对应位置。
 2.（可选，如已存在bucket，可忽略）在aws S3 中创建你的bucket，将bucket的名称填入代码对应位置。
-3.设置桶的安全策略：
+3.设置桶的安全策略（如下图）：
+![安全策略](https://github.com/genius9527/Tools-for-Amazon-AWS-S3-file-uploads/blob/master/%E6%A1%B6%E5%AE%89%E5%85%A8%E9%85%8D%E7%BD%AE.png)
 
 4.运行代码，选择文件上传。
 
