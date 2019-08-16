@@ -2,13 +2,19 @@
 A tool for implementing S3 file uploads using aws sdk for Javascript
 
 **工具功能**：
+
 1.上传文件至亚马逊AWS S3中
+
 2.可视化上传进度
+
 3.获取最新上传文件的下载链接
 
 **使用方法**：
+
 1.获取你的accessKeyId与secretAccessKey，填进代码对应位置。
+
 2.（可选，如已存在bucket，可忽略）在aws S3 中创建你的bucket，将bucket的名称填入代码对应位置。
+
 3.设置桶的安全策略（如下图）：
 ![安全策略](https://github.com/genius9527/Tools-for-Amazon-AWS-S3-file-uploads/blob/master/%E6%A1%B6%E5%AE%89%E5%85%A8%E9%85%8D%E7%BD%AE.png)
 
@@ -28,5 +34,7 @@ A tool for implementing S3 file uploads using aws sdk for Javascript
 
 
 **Tips**：
+
 1.本工具不可用于商用，仅可用于个人使用，请注意保护自己的账号与密码。
+
 2.动态分配权限的版本尚未开发，待作者有时间会进行版本迭代。
